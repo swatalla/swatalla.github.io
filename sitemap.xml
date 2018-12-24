@@ -5,7 +5,7 @@
     <url>
     
       <loc>https://swatalla.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://swatalla.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -21,7 +21,49 @@
     <url>
     
       <loc>https://swatalla.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/project/age_diff/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/project/psych_neur_comm_women/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/project/sex_diff/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/tags/aging/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/tags/alzheimers-disease/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -29,6 +71,15 @@
     <url>
     
       <loc>https://swatalla.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -44,7 +95,26 @@
     
     <url>
     
+      <loc>https://swatalla.github.io/tags/sex-differences/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://swatalla.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://swatalla.github.io/tags/thermal-pain/</loc>
+      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,7 +123,7 @@
     <url>
     
       <loc>https://swatalla.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

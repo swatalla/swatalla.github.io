@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>swatalla on swatalla</title>
-    <link>https://swatalla.github.io/</link>
-    <description>Recent content in swatalla on swatalla</description>
+    <title>Sex Differences on swatalla</title>
+    <link>https://swatalla.github.io/tags/sex-differences/</link>
+    <description>Recent content in Sex Differences on swatalla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://swatalla.github.io/tags/sex-differences/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Age-Related Differences in the Psychophysical and Neurobiological Response to Pain</title>
@@ -16,15 +18,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://swatalla.github.io/project/age_diff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychophysical and Neurophysiological Response to Experimental Pain in Communicative Women with Alzheimer’s Disease</title>
-      <link>https://swatalla.github.io/project/psych_neur_comm_women/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://swatalla.github.io/project/psych_neur_comm_women/</guid>
       <description></description>
     </item>
     
